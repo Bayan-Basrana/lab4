@@ -31,6 +31,6 @@ private double base;
 
     @Override
     public double calculateCircumference() {
-        return 3*height;
+        return 3*base;
     }
 }
